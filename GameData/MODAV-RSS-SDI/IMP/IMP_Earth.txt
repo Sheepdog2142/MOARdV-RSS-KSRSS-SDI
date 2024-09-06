@@ -1,0 +1,10 @@
+// If RSS is installed, MAS will update the Globus / IMP instrument to use a
+// Earth satellite map instead of Kerbin (image courtesy Sheepdog2142).
+@PROP[MAS_ASET_IMP]
+{
+	@MODEL
+	{
+		texture = IMP_diffuse,ASET/ASET_Props/Instruments/ASET_IMP/IMP_diffuse
+		texture = map_Kerbin_sat,SheepdogCustom/Support/MOARdV/RSS/map_Earth_sat
+	}
+}
