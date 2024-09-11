@@ -37,6 +37,15 @@ This mod adds full **Real Solar System (RSS)**, **KSRSS**, and **KSRSS [Earth th
 - The mod includes intuitive designs for easier navigation and visualization of celestial bodies, even in low-tech or retro-style spacecraft.
 
 ---
+![Screenshot 2024-09-11 163031](https://github.com/user-attachments/assets/f036a6a5-989b-49e7-8fbf-9dbe21e0aebf)
+
+![Screenshot 2024-09-11 165433](https://github.com/user-attachments/assets/132f0c00-2542-4e76-a87e-2e8fa17c525e)
+
+![Screenshot 2024-09-11 1802442](https://github.com/user-attachments/assets/f564de79-f672-4f09-8e7d-6e217d616281)
+
+
+
+
 
 ## Installation
 
