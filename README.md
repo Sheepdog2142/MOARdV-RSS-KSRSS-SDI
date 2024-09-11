@@ -44,9 +44,9 @@ This mod adds full **Real Solar System (RSS)**, **KSRSS**, and **KSRSS [Earth th
        \/ **Pick One** \/
    - **Real Solar System (RSS)**, **KSRSS**, or **KSRSS Earth the Home World**
   
-1.a **Optional Mods:**
-   - **PCRIVAPLUS_MAS** (Vulkan's fork) (My fork is on the way so you dont need BDarmory)
-
+      1.a **Optional Mods:**
+         - **PCRIVAPLUS_MAS** (Vulkan's fork) (My fork is on the way so you dont need BDarmory)
+---
 2. **Extract files** to the `GameData` folder of your **Kerbal Space Program** installation.
 
 3. **Overwrite files** if prompted, ensuring that all map and configuration files are properly placed.
