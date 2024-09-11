@@ -9,7 +9,7 @@ This mod adds full **Real Solar System (RSS)**, **KSRSS**, and **KSRSS [Earth th
 - **Advanced MFD Integration**: Scaled maps designed for high-tech Multi-Function Displays (MFDs) for advanced spacecraft.
 - **High-Quality Vector Maps**: High-quality vector maps integrated with the DOT Control Boards for **PCRIVAPLUS_Retro**.
 - **Collaborative Effort**: Created by **Sheepdog** and **TheNamedOyster**, who initially worked separately but joined forces to deliver this comprehensive mod.
-- ** The MAS IMP Map Ball will now show Earth instead of Kerbin.
+- **IMP Support** The MAS IMP Map Ball will now show Earth instead of Kerbin.
 
 ---
 
